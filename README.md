@@ -1,4 +1,4 @@
-# KTLT
+# KTLT - Trần Đoàn Hoàng Anh 20237297
 ## Hướng dẫn build
 1. Install python version 3.13.2
 2. Open terminal, run 'pip install'
