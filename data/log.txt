@@ -1,0 +1,344 @@
+He thong: Menu chinh: 
+He thong: 1. Thao tac du lieu
+He thong: 2. Tinh dien nang tieu thu cua mot khach hang
+He thong: 3. Tim kiem du lieu
+He thong: 4. Tinh tien dien trong ky cua mot khach hang
+He thong: 5. In hoa don tien dien trong ky cua mot khach hang
+He thong: 0. Thoat
+He thong: Chon mot gia tri (0-5): 
+Nguoi dung: 1
+He thong: Thao tac du lieu: 
+He thong: 1. Thao tac khach hang
+He thong: 2. Thao tac chi so dien
+He thong: 3. Thao tac gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 2
+He thong: Menu chi so dien: 
+He thong: 1. Them chi so dien
+He thong: 2. Cap nhat chi so dien
+He thong: 3. Xoa chi so dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 1
+He thong: Them chi so dien
+He thong: Nhap ma khach hang: 
+Nguoi dung: K00001
+He thong: Nhap chi so dien: 
+Nguoi dung: 568
+He thong: Nhap ngay chot (dd/mm/yyyy): 
+Nguoi dung: 05/2025
+He thong: Du lieu khong hop le. Vui long chon lai.
+He thong: Nhap ngay chot (dd/mm/yyyy): 
+Nguoi dung: 06/06/2025
+He thong: Nhap ky (mm/yyyy): 
+Nguoi dung: 06/2025
+He thong: Them chi so dien thanh cong
+He thong: Menu chi so dien: 
+He thong: 1. Them chi so dien
+He thong: 2. Cap nhat chi so dien
+He thong: 3. Xoa chi so dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 1
+He thong: Them chi so dien
+He thong: Nhap ma khach hang: 
+Nguoi dung: K00001
+He thong: Nhap chi so dien: 
+Nguoi dung: 567
+He thong: Nhap ngay chot (dd/mm/yyyy): 
+Nguoi dung: 06/06/2025
+He thong: Nhap ky (mm/yyyy): 
+Nguoi dung: 06/2025
+He thong: Ky khong hop le hoac da bi trung lap, moi nhap lai
+He thong: Nhap ky (mm/yyyy): 
+Nguoi dung: 07/2025
+He thong: Them chi so dien thanh cong
+He thong: Menu chi so dien: 
+He thong: 1. Them chi so dien
+He thong: 2. Cap nhat chi so dien
+He thong: 3. Xoa chi so dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 1
+He thong: Them chi so dien
+He thong: Nhap ma khach hang: 
+Nguoi dung: K00006
+He thong: Nhap chi so dien: 
+Nguoi dung: 789
+He thong: Nhap ngay chot (dd/mm/yyyy): 
+Nguoi dung: 04/03/2025
+He thong: Nhap ky (mm/yyyy): 
+Nguoi dung: 03/2025
+He thong: Them chi so dien thanh cong
+He thong: Menu chi so dien: 
+He thong: 1. Them chi so dien
+He thong: 2. Cap nhat chi so dien
+He thong: 3. Xoa chi so dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 0
+He thong: Thao tac du lieu: 
+He thong: 1. Thao tac khach hang
+He thong: 2. Thao tac chi so dien
+He thong: 3. Thao tac gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 3
+He thong: Menu gia dien: 
+He thong: 1. Them gia dien
+He thong: 2. Cap nhat gia dien
+He thong: 3. Xoa gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 1
+He thong: Them gia dien
+He thong: Nhap bac gia dien: 
+Nguoi dung: 2
+He thong: Bac gia dien phai la mot so nguyen va khong trung lap, moi nhap lai
+He thong: Nhap bac gia dien: 
+Nguoi dung: 3
+He thong: Bac gia dien phai la mot so nguyen va khong trung lap, moi nhap lai
+He thong: Nhap bac gia dien: 
+Nguoi dung: 6
+He thong: Nhap chi so dau: 
+Nguoi dung: 401
+He thong: Nhap chi so cuoi: 
+Nguoi dung: 10000
+He thong: Nhap gia tien/so dien: 
+Nguoi dung: 3460
+He thong: Them gia dien thanh cong
+He thong: Menu gia dien: 
+He thong: 1. Them gia dien
+He thong: 2. Cap nhat gia dien
+He thong: 3. Xoa gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 1
+He thong: Them gia dien
+He thong: Nhap bac gia dien: 
+Nguoi dung: 1
+He thong: Bac gia dien phai la mot so nguyen va khong trung lap, moi nhap lai
+He thong: Nhap bac gia dien: 
+Nguoi dung: 4
+He thong: Nhap chi so dau: 
+Nguoi dung: 210
+He thong: Nhap chi so cuoi: 
+Nguoi dung: 300
+He thong: Nhap gia tien/so dien: 
+Nguoi dung: 2998
+He thong: Them gia dien thanh cong
+He thong: Menu gia dien: 
+He thong: 1. Them gia dien
+He thong: 2. Cap nhat gia dien
+He thong: 3. Xoa gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 0
+He thong: Thao tac du lieu: 
+He thong: 1. Thao tac khach hang
+He thong: 2. Thao tac chi so dien
+He thong: 3. Thao tac gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 0
+He thong: Menu chinh: 
+He thong: 1. Thao tac du lieu
+He thong: 2. Tinh dien nang tieu thu cua mot khach hang
+He thong: 3. Tim kiem du lieu
+He thong: 4. Tinh tien dien trong ky cua mot khach hang
+He thong: 5. In hoa don tien dien trong ky cua mot khach hang
+He thong: 0. Thoat
+He thong: Chon mot gia tri (0-5): 
+Nguoi dung: 1
+He thong: Thao tac du lieu: 
+He thong: 1. Thao tac khach hang
+He thong: 2. Thao tac chi so dien
+He thong: 3. Thao tac gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 3
+He thong: Menu gia dien: 
+He thong: 1. Them gia dien
+He thong: 2. Cap nhat gia dien
+He thong: 3. Xoa gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 1
+He thong: Them gia dien
+He thong: Nhap bac gia dien: 
+Nguoi dung: 5
+He thong: Nhap chi so dau: 
+Nguoi dung: 301
+He thong: Nhap chi so cuoi: 
+Nguoi dung: 400
+He thong: Nhap gia tien/so dien: 
+Nguoi dung: 3350
+He thong: Them gia dien thanh cong
+He thong: Menu gia dien: 
+He thong: 1. Them gia dien
+He thong: 2. Cap nhat gia dien
+He thong: 3. Xoa gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 3
+He thong: Xoa gia dien
+He thong: Nhap bac gia dien: 
+Nguoi dung: 1
+He thong: Xoa gia dien thanh cong
+He thong: Menu gia dien: 
+He thong: 1. Them gia dien
+He thong: 2. Cap nhat gia dien
+He thong: 3. Xoa gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 1
+He thong: Them gia dien
+He thong: Nhap bac gia dien: 
+Nguoi dung: 1
+He thong: Nhap chi so dau: 
+Nguoi dung: 0
+He thong: Chi so dau khong hop le, moi nhap lai
+He thong: Nhap chi so dau: 
+Nguoi dung: 1
+He thong: Nhap chi so cuoi: 
+Nguoi dung: 50
+He thong: Nhap gia tien/so dien: 
+Nguoi dung: 1984
+He thong: Them gia dien thanh cong
+He thong: Menu gia dien: 
+He thong: 1. Them gia dien
+He thong: 2. Cap nhat gia dien
+He thong: 3. Xoa gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 0
+He thong: Thao tac du lieu: 
+He thong: 1. Thao tac khach hang
+He thong: 2. Thao tac chi so dien
+He thong: 3. Thao tac gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 0
+He thong: Menu chinh: 
+He thong: 1. Thao tac du lieu
+He thong: 2. Tinh dien nang tieu thu cua mot khach hang
+He thong: 3. Tim kiem du lieu
+He thong: 4. Tinh tien dien trong ky cua mot khach hang
+He thong: 5. In hoa don tien dien trong ky cua mot khach hang
+He thong: 0. Thoat
+He thong: Chon mot gia tri (0-5): 
+Nguoi dung: 2
+He thong: Tinh so dien nang da su dung
+He thong: Nhap ma khach hang: 
+Nguoi dung: K00001
+He thong: Khong tim thay khach hang, moi nhap lai
+He thong: Nhap ma khach hang: 
+Nguoi dung: K00002
+He thong: Khong tim thay khach hang, moi nhap lai
+He thong: Nhap ma khach hang: 
+Nguoi dung: K00003
+He thong: Khong tim thay khach hang, moi nhap lai
+He thong: Nhap ma khach hang: 
+Nguoi dung: 
+He thong: Khong tim thay khach hang, moi nhap lai
+He thong: Nhap ma khach hang: 
+Nguoi dung: 
+He thong: Khong tim thay khach hang, moi nhap lai
+He thong: Menu chinh: 
+He thong: 1. Thao tac du lieu
+He thong: 2. Tinh dien nang tieu thu cua mot khach hang
+He thong: 3. Tim kiem du lieu
+He thong: 4. Tinh tien dien trong ky cua mot khach hang
+He thong: 5. In hoa don tien dien trong ky cua mot khach hang
+He thong: 0. Thoat
+He thong: Chon mot gia tri (0-5): 
+Nguoi dung: 1
+He thong: Thao tac du lieu: 
+He thong: 1. Thao tac khach hang
+He thong: 2. Thao tac chi so dien
+He thong: 3. Thao tac gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 1
+He thong: Menu khach hang: 
+He thong: 1. Them khach hang
+He thong: 2. Cap nhat khach hang
+He thong: 3. Xoa khach hang
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: K00001
+He thong: Du lieu khong hop le. Vui long chon lai.
+He thong: Menu khach hang: 
+He thong: 1. Them khach hang
+He thong: 2. Cap nhat khach hang
+He thong: 3. Xoa khach hang
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 1
+He thong: Them khach hang
+He thong: Nhap ma khach hang: 
+Nguoi dung: K00001
+He thong: Nhap ten khach hang: 
+Nguoi dung: Nguyen Van A
+He thong: Nhap dia chi khach hang: 
+Nguoi dung: 29, Le Loi, Hai Phong
+He thong: Nhap ma cong to dien khach hang: 
+Nguoi dung: C00001
+He thong: Them khach hang thanh cong
+He thong: Menu khach hang: 
+He thong: 1. Them khach hang
+He thong: 2. Cap nhat khach hang
+He thong: 3. Xoa khach hang
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 0
+He thong: Thao tac du lieu: 
+He thong: 1. Thao tac khach hang
+He thong: 2. Thao tac chi so dien
+He thong: 3. Thao tac gia dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 2
+He thong: Menu chi so dien: 
+He thong: 1. Them chi so dien
+He thong: 2. Cap nhat chi so dien
+He thong: 3. Xoa chi so dien
+He thong: 0. Tro lai
+He thong: Chon mot gia tri (0-3): 
+Nguoi dung: 1
+He thong: Them chi so dien
+He thong: Nhap ma khach hang: 
+Nguoi dung: K00001
+He thong: Nhap chi so dien: 
+Nguoi dung: 689
+He thong: Nhap ngay chot (dd/mm/yyyy): 
+Nguoi dung: 02/06/2025
+He thong: Nhap ky (mm/yyyy): 
+Nguoi dung: 06/2025
+He thong: Ky khong hop le hoac da bi trung lap, moi nhap lai
+He thong: Nhap ky (mm/yyyy): 
+Nguoi dung: 07/2025
+He thong: Ky khong hop le hoac da bi trung lap, moi nhap lai
+He thong: Menu chinh: 
+He thong: 1. Thao tac du lieu
+He thong: 2. Tinh dien nang tieu thu cua mot khach hang
+He thong: 3. Tim kiem du lieu
+He thong: 4. Tinh tien dien trong ky cua mot khach hang
+He thong: 5. In hoa don tien dien trong ky cua mot khach hang
+He thong: 0. Thoat
+He thong: Chon mot gia tri (0-5): 
+Nguoi dung: 2
+He thong: Tinh so dien nang da su dung
+He thong: Nhap ma khach hang: 
+Nguoi dung: K00001
+He thong: Nhap ky (mm/yyyy): 
+Nguoi dung: 06/2025
+He thong: Chi so dien da su dung ky 06/2025: 568.0
+He thong: Menu chinh: 
+He thong: 1. Thao tac du lieu
+He thong: 2. Tinh dien nang tieu thu cua mot khach hang
+He thong: 3. Tim kiem du lieu
+He thong: 4. Tinh tien dien trong ky cua mot khach hang
+He thong: 5. In hoa don tien dien trong ky cua mot khach hang
+He thong: 0. Thoat
